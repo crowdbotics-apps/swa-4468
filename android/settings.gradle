@@ -1,0 +1,3 @@
+rootProject.name = 'swa_4468'
+
+include ':app'
